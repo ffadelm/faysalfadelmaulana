@@ -13,10 +13,10 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         I am a <span className="font-medium">Web Developer</span> with a strong interest in <span className="italic">Web Development</span>,<span className="italic"> UI Design</span>, and{" "}
-        <span className="italic">Frontend & Backend Development</span>. I graduated with a Bachelor's degree in Information Technology from <span className="font-medium">Universitas Muhammadiyah Yogyakarta</span>, and am currently pursuing
-        a Master's degree in <span className="font-medium">Information Technology</span> at Universitas Gadjah Mada, focusing on <span className="italic">Data Analytics and Pervasive Intelligence</span>. I also have experience working at
-        Radian Edu Solution as a <span className="font-medium">Junior Web Developer</span>, where I successfully developed and managed web projects. My main tools for web development include <span className="font-medium">Laravel</span> and{" "}
-        <span className="font-medium">Vue.js</span>. I am also familiar with <span className="font-medium">React, Go, Spring Boot, .Net, Bootstrap, and TailwindCSS</span>.
+        <span className="italic">Frontend & Backend Development</span>. I graduated with a Bachelor&apos;s degree in Information Technology from <span className="font-medium">Universitas Muhammadiyah Yogyakarta</span>, and am currently
+        pursuing a Master&apos;s degree in <span className="font-medium">Information Technology</span> at Universitas Gadjah Mada, focusing on <span className="italic">Data Analytics and Pervasive Intelligence</span>. I also have experience
+        working at Radian Edu Solution as a <span className="font-medium">Junior Web Developer</span>, where I successfully developed and managed web projects. My main tools for web development include{" "}
+        <span className="font-medium">Laravel</span> and <span className="font-medium">Vue.js</span>. I am also familiar with <span className="font-medium">React, Go, Spring Boot, .Net, Bootstrap, and TailwindCSS</span>.
       </p>
 
       <p className="mb-3">

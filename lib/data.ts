@@ -1,6 +1,5 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
-import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import uidesign from "@/public/uidesign.png";
 import makanyuk from "@/public/makanyuk.png";
@@ -69,7 +68,7 @@ export const experiencesData = [
     title: "Master of Information Technology",
     location: "Universitas Gadjah Mada",
     description:
-      "I am currently advancing my studies at Universitas Gadjah Mada, pursuing a Master's degree in Information Technology at the Faculty of Engineering. With a focus on Data Analytics and Pervasive Intelligence (DAPI), I am deepening my expertise in cutting-edge technologies to drive impactful solutions in the world of data.",
+      "I am currently advancing my studies at Universitas Gadjah Mada, pursuing a Master&apos;s degree in Information Technology at the Faculty of Engineering. With a focus on Data Analytics and Pervasive Intelligence (DAPI), I am deepening my expertise in cutting-edge technologies to drive impactful solutions in the world of data.",
     icon: React.createElement(LuGraduationCap),
     date: "2024 - present",
   },
@@ -98,8 +97,8 @@ export const projectsData = [
     imageUrl: makanyuk,
   },
   {
-    title: "Al-Qur'an Web",
-    description: "Al-Qur'an is a web app for accessing verses and translations, offering a simple, user-friendly interface to enhance the reading experience.",
+    title: "Al-Qur&apos;an Web",
+    description: "Al-Qur&apos;an is a web app for accessing verses and translations, offering a simple, user-friendly interface to enhance the reading experience.",
     tags: ["HTML", "CSS", "JS", "Vue", "Vite", "Bootstrap", "API Public"],
     url: "https://al-qurans.netlify.app/",
     imageUrl: quranapp,
@@ -155,7 +154,7 @@ export const projectsData = [
   },
   {
     title: "Other Project",
-    description: "Other projects I've worked on can be found in my GitHub repository, showcasing various tools and technologies I've explored.",
+    description: "Other projects I&apos;ve worked on can be found in my GitHub repository, showcasing various tools and technologies I&apos;ve explored.",
     tags: ["Laravel", "Vue", "Tailwind", "Bootstrap", "Net", "Other tools"],
     url: "https://github.com/ffadelm",
     imageUrl: otherproject,
